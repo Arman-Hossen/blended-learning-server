@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1",
+      "courseName": "Data Stucture"
+      
+    },
+    {
+        "id": "2",
+        "courseName": "Robotics"
+      
+    },
+    {
+        "id": "3",
+        "courseName": "Bioinformactics"
+    },
+    {
+        "id": "4",
+        "courseName": "Computer Graphics"
+    },
+    {
+        "id": "5",
+        "courseName": "Computer Networking"
+    },
+    {
+        "id": "6",
+        "courseName": "Descreate Mathmathics"
+    }
+  ]
