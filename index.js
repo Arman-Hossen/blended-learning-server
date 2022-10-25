@@ -7,6 +7,14 @@ app.use(cors());
 
 const catagories = require("./fakedata/catagories.json");
 const detailsData = require("./fakedata/fakedb.json");
+app.get("/", (req, res) => {
+    res.send(" API is Working Perfectly");
+  });
+  app.get("/courses", (req, res) => {
+    res.send(catagories);
+  });
+  
+  
 
 
 
