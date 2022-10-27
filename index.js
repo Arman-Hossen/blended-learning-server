@@ -19,6 +19,9 @@ app.get("/", (req, res) => {
       const allData = detailsData.find( data => data.id=== id) 
       res.send(allData);
     });
+  app.get("/precourses/:id",(req, res) =>{
+       res.send(detailsData);
+  })  
   
   
 

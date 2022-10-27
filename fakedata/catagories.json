@@ -1,28 +1,65 @@
 [
     {
       "id": "1",
-      "courseName": "Data Stucture"
+      "courseName": "Data Stucture",
+      "price": "$1,62.88",
+      "picture": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+      "veiw": 25,
+      "subscriber": 12,
+      "author": "Carolyn Mercer",
+      "about": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways. Most importantly, data structures frame the organization of information so that machines and humans can better understand it.In computer science and computer programming, a data structure may be selected or designed to store data for the purpose of using it with various algorithms. In some cases, the algorithm's basic operations are tightly coupled to the data structure's design. Each data structure contains information about the data values, relationships between the data and -- in some cases -- functions that can be applied to the data.For instance, in an object-oriented programming language, the data structure and its associated methods are bound together as part of a class definition. In non-object-oriented languages, there may be functions defined to work with the data structure, but they are not technically part of the data structure\r\n"
       
     },
     {
         "id": "2",
-        "courseName": "Robotics"
+        "courseName": "Robotics",
+        "price": "$3,27.59",
+        "picture": "https://images.unsplash.com/photo-1518314916381-77a37c2a49ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+       "veiw": 29,
+        "subscriber": 14,
+       "author": "Georgia Schmidt",
+      "about": "Ut enim nulla consequat minim id ipsum non minim incididunt labore non culpa duis. Adipisicing enim reprehenderit ex nisi fugiat duis dolor nisi tempor do. Pariatur et culpa aute dolor. Id ea ut ullamco dolore laborum. Velit anim aute velit excepteur irure aute est consectetur officia ut eu veniam id.\r\nAliquip consequat non incididunt eu labore do mollit esse sint elit cillum. Ea labore officia enim eiusmod id laboris. Exercitation in consectetur proident tempor deserunt do commodo eu aliqua dolore ipsum consequat. Velit sint ex sit aliquip cupidatat. Quis sunt pariatur do do mollit proident laborum aliqua tempor est cillum. Commodo culpa officia sunt cillum dolore. Tempor laboris deserunt tempor eiusmod ut Lorem consectetur adipisicing cupidatat eu laboris.\r\n"
       
     },
     {
         "id": "3",
-        "courseName": "Bioinformactics"
+        "courseName": "Bioinformactics",
+        "price": "$1,55.98",
+      "picture": "https://images.unsplash.com/photo-1575468130797-aa950b68aeec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "veiw": 27,
+      "subscriber": 16,
+      "author": "Miranda Rutledge",
+      "about": "Proident anim aute est reprehenderit laboris do occaecat ad aute. Nostrud nisi minim Lorem ea Lorem in ipsum adipisicing deserunt incididunt cillum ut. Reprehenderit fugiat consectetur id adipisicing laboris eiusmod mollit nisi. Minim et sit labore aliquip ex do amet do non. Sunt id sit sunt deserunt magna ea consequat aliqua cupidatat Lorem laboris qui. Deserunt occaecat dolore non aliqua est velit laborum excepteur irure est enim incididunt enim ut.\r\nMollit tempor enim sit ipsum dolore est ipsum. Aliquip veniam ad nisi labore fugiat aute minim in veniam ex et. Mollit labore non dolore ipsum ipsum sint nisi eu aliquip cillum anim cupidatat. Ad amet tempor enim aute sint qui laboris irure velit dolore velit Lorem. Sunt amet occaecat magna nostrud dolor mollit quis elit eu et aute. Lorem velit deserunt laboris ex fugiat.\r\n"
+
     },
     {
         "id": "4",
-        "courseName": "Computer Graphics"
+        "courseName": "Computer Graphics Design",
+        "price": "$1,23.64",
+       "picture": "https://images.unsplash.com/photo-1506097425191-7ad538b29cef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+       "veiw": 23,
+      "subscriber": 10,
+      "author": "Sheri Dawson",
+      "about": "Consequat sunt fugiat laborum et est. Labore eiusmod adipisicing qui voluptate. Ipsum nostrud reprehenderit ex Lorem enim adipisicing commodo. Magna nostrud laborum qui elit do cupidatat officia eiusmod ipsum exercitation.\r\nIpsum nisi irure mollit ullamco ut consectetur. Aute nulla reprehenderit non proident. Incididunt laborum ut eiusmod eu aliqua exercitation adipisicing dolore magna sint.\r\n"
     },
     {
         "id": "5",
-        "courseName": "Computer Networking"
+        "courseName": "Computer Networking",
+        "price": "$1,32.47",
+      "picture": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "veiw": 20,
+      "subscriber": 16,
+      "author": "Cecilia Banks",
+      "about": "Dolor qui id adipisicing anim mollit. Consectetur labore dolore veniam eiusmod amet commodo proident. Anim deserunt velit deserunt aliquip. Et commodo id amet sit magna veniam officia est id velit non dolor anim elit. Culpa Lorem id sit voluptate ad do ex velit laborum. Et fugiat amet consequat mollit ut ipsum.\r\nAdipisicing do adipisicing quis duis eu officia velit elit eu consectetur. Esse do incididunt aliqua nostrud est aliqua cupidatat ad esse pariatur voluptate consequat do aute. Laborum et anim ea eu ipsum excepteur amet duis mollit nostrud labore occaecat aliquip. Labore non ut nostrud veniam aliquip nulla elit aliquip irure consequat pariatur.\r\n"
     },
     {
         "id": "6",
-        "courseName": "Descreate Mathmathics"
+        "courseName": "Descreate Mathmathics",
+        "price": "$2,41.71",
+       "picture": "https://images.unsplash.com/photo-1511377107391-116a9d5d20b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+       "veiw": 27,
+       "subscriber": 18,
+       "author": "Osborn Shields",
+       "about": "Excepteur dolor consequat elit ex et irure nisi ut est officia. Amet reprehenderit do ea sint elit excepteur. Labore amet in non ex culpa veniam cupidatat duis aliquip officia nostrud sint dolor. Irure do enim eiusmod commodo sint. Incididunt ex commodo eiusmod ullamco mollit sint cillum exercitation aliqua. Voluptate magna veniam nulla excepteur anim dolor ex. In pariatur irure reprehenderit Lorem incididunt.\r\nAnim pariatur eiusmod veniam consectetur voluptate irure do laborum anim non ea Lorem esse irure. In elit id consectetur adipisicing. Veniam ex duis veniam incididunt. Duis aliqua cupidatat veniam mollit ullamco aute amet aliqua do. Culpa est ex dolor adipisicing id aute. Incididunt ullamco laborum pariatur cupidatat est dolore irure consectetur qui anim sint.\r\n"
     }
   ]
