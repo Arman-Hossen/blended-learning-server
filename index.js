@@ -20,7 +20,10 @@ app.get("/", (req, res) => {
       res.send(allData);
     });
   app.get("/precourses/:id",(req, res) =>{
-       res.send(detailsData);
+      const id = req.params.id;
+      const allPreData = detailsData.find( data => data._id=== id) 
+      res.send(allPreData);
+      
   })  
   
   
